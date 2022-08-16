@@ -1,0 +1,22 @@
+{
+  "name": "avana-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.0.0",
+    "gherkin-testcafe": "^5.4.3",
+    "iodash": "0.0.1-security",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "mockdate": "^3.0.5",
+    "testcafe": "^1.18.6"
+  }
+}
